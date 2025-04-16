@@ -1,4 +1,4 @@
-# Slay-gent: Weather-Based Outfit Assistant
+# Poop-gent: Weather-Based Outfit Assistant
 ## Authors:  
 ▪️Leah Pak ([GitHub](https://github.com/Leahdotcom) |  [LinkedIn](https://www.linkedin.com/in/leah-pak)) 
 
